@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Adjust as needed */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  background-color: #021438;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.hero li {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.hero li:hover {
+  text-decoration: underline;
+}
+
+.home,
+.skills,
+.contact {
+  padding: 30px;
+  margin: 20px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.about,
+.projects {
+  padding: 30px;
+  margin: 20px;
+  background-color: rgb(64, 61, 61);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.about h4,
+.skills h4,
+.projects h4,
+.contact h4 {
+  margin-bottom: 10px;
+}
+img {
+  height: 300px;
+}
+/* Adjust styles for specific sections as needed */
+.about {
+  background-color: #aca2a2;
+}
+
+.skills {
+  background-color: #e6e6e6;
+}
+
+.projects {
+  background-color: #b3aaaa;
+}
+
+.contact {
+  background-color: #f9f9f9;
+}
+.link {
+  color: #007BFF; /* Change the link text color */
+  text-decoration: none;
+  display: inline;
+  padding: 10px 20px;
+  font-weight: 500;
+  font-size: 18px; /* Change the font size */
+  cursor: pointer;
+  transition: color 0.3s; /* Add a color transition effect */
+}
+
+.link:hover {
+  color: #fffaf9; /* Change the color on hover */
+  text-decoration: underline; /* Add underlining on hover */
+}
