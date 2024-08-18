@@ -34,7 +34,7 @@ export function Home(){
                     <td><h3 class="i1">Hi</h3>
                     <h3 class="i1">I am Sreeja</h3>
                     <h3 class="i1">Welcome to my portfolio website</h3>
-                    <h3 class="i1">My resume link <a href="https://onedrive.live.com/edit.aspx?resid=A65381530B7AC110!3302&ithint=file%2cdocx&wdo=2&authkey=!AHXR2UPviXzlFaQ" target="_blank" rel="noreferrer" >It's here</a></h3>
+                    <h3 class="i1">My resume link <a href="https://1drv.ms/b/s!AkD_syJzztf6rqJNOQMyImOfj1l7Vw?e=s2wxps" target="_blank" rel="noreferrer" >It's here</a></h3>
                     <h3 class="i1">Currently engaged in MERN fullstack internship by <a href="https://www.ethnus.com" target="blank">ethnus</a> and Cloud practitioner internship by <a href="https://aws.amazon.com/" target="blank">AWS</a></h3></td>
                     {/* <td><img src={myimg} alt="My img"></img></td> */}
                     </tr>
